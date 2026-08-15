@@ -1,0 +1,34 @@
+{
+	"format_version": "1.21.11",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ventrysitem:item/item_scie"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-50.24, 87.56, 93.58],
+			"translation": [-0.25, 4.75, 0.25],
+			"scale": [0.9, 0.9, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [66.53, -1.43, 87.49],
+			"translation": [-6.25, -5.25, 8],
+			"scale": [0.7, 0.7, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [136.43, 80.35, 177.11],
+			"translation": [-1.5, 3.75, 0],
+			"scale": [0.7, 0.7, 0.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [115.06, -77.45, 148.9],
+			"translation": [1.25, 4, -1],
+			"scale": [0.7, 0.7, 0.25]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [1, 1, 0.25]
+		}
+	}
+}

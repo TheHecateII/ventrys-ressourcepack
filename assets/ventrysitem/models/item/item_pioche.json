@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.11",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ventrysitem:item/item_pioche"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [95.44, -87.15, 135.55],
+			"translation": [-0.25, 5.5, 2],
+			"scale": [1.2, 1.2, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-111.84, -0.81, 134],
+			"translation": [-6.25, 1.5, 13.75],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [165.63, -80.72, -132.29],
+			"translation": [10.75, 7.25, -9.25],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [168, 109, -66],
+			"translation": [27, -17, 2]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [2, -2.5, 2],
+			"scale": [1, 1, 0.25]
+		}
+	}
+}

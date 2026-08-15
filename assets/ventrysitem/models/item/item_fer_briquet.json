@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Model made by Parius/Lucas and texture by Gabriel",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ventrysitem:item/item_fer_briquet"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.25, 1.5, 0.25],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 1.5, 0.25],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 125, 0],
+			"translation": [1.75, 1.25, -0.75],
+			"scale": [0.5, 0.5, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 125, 0],
+			"translation": [1.75, 1.25, -0.75],
+			"scale": [0.5, 0.5, 0.25]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

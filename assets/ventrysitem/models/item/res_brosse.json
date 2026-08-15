@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.11",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ventrysitem:ressources/res_brosse"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-169.79, 74.91, -145.24],
+			"translation": [-0.25, 0.5, 1.25],
+			"scale": [0.6, 0.6, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-5.09, -14.49, -38.53],
+			"translation": [0.25, 0.75, 0.75],
+			"scale": [0.6, 0.6, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-1, -32, 64],
+			"translation": [11.25, 0, -6.25],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [12.25, 0, -7.75],
+			"scale": [1, 1, 0.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

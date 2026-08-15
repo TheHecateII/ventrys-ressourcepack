@@ -1,0 +1,43 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Model made by Parius/Lucas and texture by Gabriel",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ventrysitem:item/item_fourche"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [72.43, 89.49, -20.12],
+			"translation": [-0.25, 10.75, 2.75],
+			"scale": [2.6, 2.6, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [69.69, -2.04, -7.58],
+			"translation": [-13.25, -4, 13.5],
+			"scale": [2.6, 2.6, 0.45]
+		},
+		"firstperson_righthand": {
+			"rotation": [75, 99, -31],
+			"translation": [13.25, 7.5, -8.75],
+			"scale": [2.8, 2.8, 0.45]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-17, 87, -30],
+			"translation": [14.75, 9.25, -10.5],
+			"scale": [2.8, 2.8, 0.45]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [2, -2.5, 2.5],
+			"scale": [1.25, 1.25, 0.35]
+		},
+		"gui": {
+			"translation": [2.5, 2.5, 0],
+			"scale": [1.34, 1.34, 1.34]
+		},
+		"fixed": {
+			"translation": [4, 4, 0],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}
